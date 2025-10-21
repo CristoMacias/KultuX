@@ -1,2 +1,4 @@
 # KultuX
-Proyecto intermodular realizado por Cristo Macías Izaguirre y Sandra María Moñino García.
+Proyecto para el módulo de Proyecto Intermodular para el CFGS de Desarrollo de Aplicaciones Multiplataforma.
+
+Realizado por Cristo Macías Izaguirre y Sandra María Moñino García.
